@@ -151,6 +151,7 @@ export default function Homepage() {
         <Box
           component="main"
           sx={{
+
             backgroundColor: (theme) =>
               theme.palette.mode === 'light'
                 ? theme.palette.grey[100]
